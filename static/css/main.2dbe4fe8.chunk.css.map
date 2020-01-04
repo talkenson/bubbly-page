@@ -1,1 +1,0 @@
-{"version":3,"sources":["Home.css","Persik.css"],"names":[],"mappings":"AAAA,OACE,uBAAwB,CACxB,kCACF,CCHA,QACE,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF","file":"main.2dbe4fe8.chunk.css","sourcesContent":[".Panel {\n  color: #0a0a0a!important;\n  background-color: #e1e3e6!important;\n}\n",".Persik {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n"]}
