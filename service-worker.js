@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bubbly-page/precache-manifest.991eb86347ff82e150337346317daa71.js"
+  "/bubbly-page/precache-manifest.702ad7aa41b3d901254b0a5c636309d1.js"
 );
 
 self.addEventListener('message', (event) => {
