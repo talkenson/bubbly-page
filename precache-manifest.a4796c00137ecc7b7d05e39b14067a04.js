@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7cd7c9beb8a6ec92914b75d7b14d953",
+    "revision": "dbdddbce6ee9c75f0c98ffeed50d9feb",
     "url": "/bubbly-page/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bubbly-page/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "77da77c67abd388dc1be",
+    "revision": "f5f8db3d12a7e8d9d079",
     "url": "/bubbly-page/static/css/main.03a126c6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bubbly-page/static/js/2.8d042f47.chunk.js"
   },
   {
-    "revision": "77da77c67abd388dc1be",
-    "url": "/bubbly-page/static/js/main.3d0ef753.chunk.js"
+    "revision": "f5f8db3d12a7e8d9d079",
+    "url": "/bubbly-page/static/js/main.414fb772.chunk.js"
   },
   {
     "revision": "aa629ee165da5d99daf7",
