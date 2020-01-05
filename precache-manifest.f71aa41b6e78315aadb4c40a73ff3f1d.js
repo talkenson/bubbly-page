@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dad20a20fa0f7f9f1a2c8854a4da0505",
+    "revision": "91bcc91e472819afb3df947c5c3644f1",
     "url": "/bubbly-page/index.html"
   },
   {
-    "revision": "0130a6ffb9f97ae41575",
+    "revision": "63f528de9e9df2da57fa",
     "url": "/bubbly-page/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "31022b5f4e6f8ba1fe81",
+    "revision": "9b4bfe3a99374c6ce1bb",
     "url": "/bubbly-page/static/css/main.0a8e021c.chunk.css"
   },
   {
-    "revision": "0130a6ffb9f97ae41575",
-    "url": "/bubbly-page/static/js/2.ba887261.chunk.js"
+    "revision": "63f528de9e9df2da57fa",
+    "url": "/bubbly-page/static/js/2.8d14c166.chunk.js"
   },
   {
-    "revision": "31022b5f4e6f8ba1fe81",
-    "url": "/bubbly-page/static/js/main.407dba7a.chunk.js"
+    "revision": "9b4bfe3a99374c6ce1bb",
+    "url": "/bubbly-page/static/js/main.57d6a726.chunk.js"
   },
   {
     "revision": "aa629ee165da5d99daf7",
