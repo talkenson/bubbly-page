@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bubbly-page/static/css/main.82424d7c.chunk.css",
-    "main.js": "/bubbly-page/static/js/main.6f5523dd.chunk.js",
-    "main.js.map": "/bubbly-page/static/js/main.6f5523dd.chunk.js.map",
+    "main.js": "/bubbly-page/static/js/main.91b774af.chunk.js",
+    "main.js.map": "/bubbly-page/static/js/main.91b774af.chunk.js.map",
     "runtime-main.js": "/bubbly-page/static/js/runtime-main.1554a7bf.js",
     "runtime-main.js.map": "/bubbly-page/static/js/runtime-main.1554a7bf.js.map",
     "static/css/2.4e89ce74.chunk.css": "/bubbly-page/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.65e82322.chunk.js": "/bubbly-page/static/js/2.65e82322.chunk.js",
-    "static/js/2.65e82322.chunk.js.map": "/bubbly-page/static/js/2.65e82322.chunk.js.map",
+    "static/js/2.4efe13d6.chunk.js": "/bubbly-page/static/js/2.4efe13d6.chunk.js",
+    "static/js/2.4efe13d6.chunk.js.map": "/bubbly-page/static/js/2.4efe13d6.chunk.js.map",
     "index.html": "/bubbly-page/index.html",
-    "precache-manifest.6e6424059bca014976df8832bd9c748e.js": "/bubbly-page/precache-manifest.6e6424059bca014976df8832bd9c748e.js",
+    "precache-manifest.3d9d9a11ae94a0035a47bf23ebd9f7dd.js": "/bubbly-page/precache-manifest.3d9d9a11ae94a0035a47bf23ebd9f7dd.js",
     "service-worker.js": "/bubbly-page/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/bubbly-page/static/css/2.4e89ce74.chunk.css.map",
     "static/css/main.82424d7c.chunk.css.map": "/bubbly-page/static/css/main.82424d7c.chunk.css.map"
